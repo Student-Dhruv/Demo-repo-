@@ -1,4 +1,3 @@
-# Demo-repo-
-This is my first git repository 
+# Repository 
 <br>
 Author - dhruv 
